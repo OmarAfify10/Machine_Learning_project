@@ -17,8 +17,6 @@ Um die Ausgabe in eine .txt-Datei zu exportieren, nutzen Sie den Befehl "python 
 
 # Erwartete Ergebnis:
 1. Ergebnis nach der Ausführung der main.py Datei ist in der Datei ausgabe.txt zu finden.
-   
-[ausgabe.txt](https://github.com/hienchipham197/DBE-Angleichungsmodul-Aufgabe2/files/14343872/ausgabe.txt)
 
 MNIST: (70000, 784) (70000,)
 
@@ -49,8 +47,6 @@ predict ran in: 1.9965155124664307 sec
 Test Accuracy: 73.18 
 
 2. Ergebnis nach der Ausführung der test.py Datei ist in der Datei ausgabe2.txt zu finden.
-   
-[ausgabe2.txt](https://github.com/hienchipham197/DBE-Angleichungsmodul-Aufgabe2/files/14343874/ausgabe2.txt)
 
 setUp
 __init__ ran in: 2.765655517578125e-05 sec
